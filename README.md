@@ -1,4 +1,4 @@
-# domain_check
+# waybulk
 find websites that exist or used to from a list of domains(uses the waybackmachine's API)
 
 ## Installation
