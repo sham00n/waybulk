@@ -1,5 +1,5 @@
 # domain_check
-find available websites from a list of domains
+find websites that exist or used to from a list of domains(uses the waybackmachine's API)
 
 ## Installation
 
